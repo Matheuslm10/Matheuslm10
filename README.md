@@ -24,7 +24,7 @@ My name is Matheus Machado, I'm a software engineer from Brazil, focused on fron
   </p>
 <h4>📬 &nbsp;Contact me!</h4>
 <a href="https://www.linkedin.com/in/matheusmachado-dev/" target="_blank">
-  <img alt="Linkedin Badge" src="https://img.shields.io/badge/-Matheus_Machado-blue?style=flat-square&logo=Linkedin&logoColor=white" />
+  <img alt="Linkedin Badge" src="https://img.shields.io/badge/-matheusmachado--dev-blue?style=flat-square&logo=Linkedin&logoColor=white" />
 </a>
 <a href="https://instagram.com/matheusmachado.dev/" target="_blank">
   <img alt="Linkedin Badge" src="https://img.shields.io/badge/-matheusmachado.dev-E4405F?style=flat-square&logo=instagram&logoColor=white" />
