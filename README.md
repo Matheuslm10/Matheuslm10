@@ -1,4 +1,4 @@
-### 👋 &nbsp;Hi, there
+### 👋 &nbsp;Hi, there!
 
 My name is Matheus Machado, I'm a software engineer from Brazil, focused on front-end development.
 
