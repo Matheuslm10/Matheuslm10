@@ -1,6 +1,6 @@
 ### Hi, there 👋
 
-I'm Matheus Machado, Software Engineer from Brazil, focused on front-end development.
+My name is Matheus Machado, I'm a software engineer from Brazil, focused on front-end development.
 
   <h4>👨‍💻 &nbsp;Things I code with:</h4>
   <p>
