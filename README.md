@@ -23,7 +23,7 @@ My name is Matheus Machado, I'm a software engineer from Brazil, focused on fron
     <!-- <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" /> -->
   </p>
 <h4>📬 &nbsp;Contact me!</h4>
-<a href="https://www.linkedin.com/in/matheusmachado-dev/" target="_blank">
+<a href="https://www.linkedin.com/in/matheusmachado-dev/en" target="_blank">
   <img alt="Linkedin Badge" src="https://img.shields.io/badge/-matheusmachado--dev-blue?style=flat-square&logo=Linkedin&logoColor=white" />
 </a>
 <a href="https://instagram.com/matheusmachado.dev/" target="_blank">
