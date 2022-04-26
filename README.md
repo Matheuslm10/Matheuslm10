@@ -4,7 +4,8 @@ My name is Matheus Machado, I'm a software engineer from Brazil, focused on fron
 
   <h4>👨‍💻 &nbsp;Things I code with:</h4>
   <p>
-    <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-F29400?style=flat-square&logo=javascript&logoColor=white" />      
+    <img alt="JavaScript" src="https://img.shields.io/badge/-Javascript-F29400?style=flat-square&logo=javascript&logoColor=white" />
+    <img alt="TypeScript" src="https://img.shields.io/badge/-Typescript-blue?style=flat-square&logo=javascript&logoColor=white" />       
     <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
     <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
     <img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-42B883?style=flat-square&logo=Vue.js&logoColor=white"/>
@@ -27,5 +28,5 @@ My name is Matheus Machado, I'm a software engineer from Brazil, focused on fron
   <img alt="Linkedin Badge" src="https://img.shields.io/badge/-matheusmachado--dev-blue?style=flat-square&logo=Linkedin&logoColor=white" />
 </a>
 <a href="https://instagram.com/matheusmachado.dev/" target="_blank">
-  <img alt="Linkedin Badge" src="https://img.shields.io/badge/-matheusmachado.dev-E4405F?style=flat-square&logo=instagram&logoColor=white" />
+  <img alt="Instagram Badge" src="https://img.shields.io/badge/-matheusmachado.dev-E4405F?style=flat-square&logo=instagram&logoColor=white" />
 </a>
