@@ -2,13 +2,14 @@
 
 My name is Matheus Machado, I'm a software engineer from Brazil, focused on front-end development.
 
-  <h4>👨‍💻 &nbsp;Things I code with:</h4>
+  <h4>👨‍💻 &nbsp;Things I worked with:</h4>
   <p>
     <img alt="JavaScript" src="https://img.shields.io/badge/-Javascript-F29400?style=flat-square&logo=javascript&logoColor=white" />
-    <img alt="TypeScript" src="https://img.shields.io/badge/-Typescript-blue?style=flat-square&logo=javascript&logoColor=white" />       
-    <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+    <img alt="TypeScript" src="https://img.shields.io/badge/-Typescript-blue?style=flat-square&logo=TypeScript&logoColor=white" />
+    <img alt="Next JS" src="https://img.shields.io/badge/Next_JS-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+    <img alt="React JS" src="https://img.shields.io/badge/-React_JS-45b8d8?style=flat-square&logo=react&logoColor=white" />
     <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
-    <img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-42B883?style=flat-square&logo=Vue.js&logoColor=white"/>
+    <img alt="Vue.js" src="https://img.shields.io/badge/-Vue_JS-42B883?style=flat-square&logo=Vue.js&logoColor=white"/>
     <img alt="Jest" src="https://img.shields.io/badge/-Jest-ba4522?style=flat-square&logo=jest&logoColor=white" />
     <img alt="Testing Library" src="https://img.shields.io/badge/-Testing_Library-d9235c?style=flat-square&logo=testing-library&logoColor=white" />      
     <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
